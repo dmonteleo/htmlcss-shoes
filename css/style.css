@@ -6,6 +6,10 @@
   box-sizing: border-box;
 }
 
+body {
+  font-family: 'Rubik Mono One', sans-serif;
+}
+
 /* BODY */
 
 #first-section {
@@ -35,6 +39,19 @@
   top: 50%;
   left: 50%;
   transform: translate(-50%, -50%);
+  /* text-align: center; */
+}
+
+/* .text {
+  font-size: 4vv;
+} */
+
+img {
+  width: 100%;
+}
+
+p {
+  text-align: center;
 }
 
 
